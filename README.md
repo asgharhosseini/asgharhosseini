@@ -19,6 +19,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_asgharhosseini)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/asgharhosseini)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=asgharhosseini.asgharhosseini)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=asgharhosseini)
 
 <h6 align="center">Made with ❤️ by Me</h6>
