@@ -2,7 +2,7 @@
 
 ### :smiley_cat: This is Asghar Hosseini
 
-### i can made my dream using MERN Stack Development 😄
+
 ### i currently working at iGapMessenger at Android .
 
 ## By the way here are some of my statistics 🚀
